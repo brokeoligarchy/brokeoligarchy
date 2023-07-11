@@ -6,7 +6,7 @@ I'm a Brazilian Site Reability Enginner. Since 2016, I've been learning and usin
 ##💻 Skills & Proficiency
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,vscode,azure,grafana,gcp,prometheus" />
   </a>
 </p>
 
