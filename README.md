@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey folks, i'm Vinicius Leoni 👋
+
+I'm a Brazilian Site Reability Enginner. Since 2016, I've been learning and using a lot of technologies to solve technical challenges
+
+
+##💻 Skills & Proficiency
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **brokeoligarchy/brokeoligarchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
