@@ -3,7 +3,7 @@
 I'm a Brazilian Site Reability Enginner. Since 2016, I've been learning and using a lot of technologies to solve technical challenges
 
 
-##💻 Skills & Proficiency
+## 💻 Skills & Proficiency
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,vscode,azure,grafana,gcp,prometheus" />
