@@ -10,7 +10,7 @@ I'm a Brazilian Site Reability Enginner. Since 2016, I've been learning and usin
   </a>
 </p>
 
-## Technologies that I'm learning now
+## 📚 Technologies that I'm learning now
 
 <p align="center">
   <a href="https://skillicons.dev">
